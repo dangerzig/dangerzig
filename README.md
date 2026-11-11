@@ -1,8 +1,8 @@
 # Dan Zigmond
 
-Data scientist, Zen teacher and priest. I use computational and machine learning methods to study ancient Buddhist texts, especially the Pāli Canon and the Chinese Taishō Canon, and I'm interested in how we can trust AI on questions no human can easily check.
+Coach, Zen priest, and former data science leader. I work with leaders as an executive coach, lead meditation retreats, and use computational and machine learning methods to study ancient Buddhist texts, especially the Pāli Canon and the Chinese Taishō Canon, and I'm interested in how we can trust AI on questions no human can easily check.
 
-Previously I led data science and engineering teams at Microsoft, Google, Facebook, Instagram, and Apple. More at [shmonk.com](https://shmonk.com).
+Previously I led data science and engineering teams at Microsoft, Google, Facebook, Instagram, and Apple. More about my coaching, retreats, and writing at [shmonk.com](https://shmonk.com).
 
 ## Pāli Canon
 
